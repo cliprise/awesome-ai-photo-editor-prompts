@@ -49,6 +49,16 @@ It covers search intents such as:
 
 ---
 
+<!-- CLIPRISE_LINKING_START -->
+## Related Cliprise GitHub resources
+
+- [Best AI image generator resources](https://github.com/cliprise/best-ai-image-generator-resources) - tested rankings, use-case fit, and editing paths for AI image generation.
+- [Awesome AI image generator prompts](https://github.com/cliprise/awesome-ai-image-generator-prompts) - image generation prompts across marketing, product, and social use cases.
+- [Awesome AI product photography prompts](https://github.com/cliprise/awesome-ai-product-photography-prompts) - catalog, PDP, and marketplace still image prompt paths.
+- [Awesome Nano Banana Pro prompts](https://github.com/cliprise/awesome-nano-banana-pro-prompts) - Gemini 3 Pro Image class prompts, text, and layout-heavy use cases.
+- [Awesome AI thumbnail prompts](https://github.com/cliprise/awesome-ai-thumbnail-prompts) - YouTube and social cover prompts with readable negative space.
+<!-- CLIPRISE_LINKING_END -->
+
 ## What this repository is
 
 This repository is a practical library for editing images with AI.
