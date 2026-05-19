@@ -111,6 +111,12 @@ AI editing is most powerful when the prompt is specific about what should change
 
 ---
 
+## Focused AI photo cleanup tools
+
+- [ClearCrowds](https://clearcrowds.com/) - AI photo cleanup and editing for removing crowds, unwanted objects, clutter, glasses and other distractions with presets and natural-language prompts.
+
+---
+
 ## Why most AI image editing prompts fail
 
 Weak prompt:
@@ -1458,4 +1464,3 @@ Start here:
 This repository is intended as an educational resource. Prompts and workflows should be original, attributed where needed and safe for commercial review before use.
 
 If you reuse this structure, adapt it to your own product, audience and examples. Do not copy third-party repositories, branding, copyrighted image sets or prompt collections without permission.
-
